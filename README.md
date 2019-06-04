@@ -13,7 +13,7 @@
     <th width="30%">캘린더 앱 시현</th>
   </tr>
   <tr>
-    <th rowspan="9"><img src="https://user-images.githubusercontent.com/47823405/53235139-75460300-36d4-11e9-9424-7866606c7d5b.gif"></th>
+    <th rowspan="9"><img src="https://user-images.githubusercontent.com/47823405/53235139-75460300-36d4-11e9-9424-7866606c7d5b.gif" width="48"></th>
      </tr>
 <table>
   

@@ -19,7 +19,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        self.title = "Just Calendar!"
+        self.title = "쉬운 달력"
         self.navigationController?.navigationBar.isTranslucent = false  
         self.view.backgroundColor = Style.bgColor
         

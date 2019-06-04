@@ -1,20 +1,23 @@
 # 1. 무엇인가요?
 ### 간단한 캘린더 앱을 구현하였습니다.
-1. UI는 스토리보드를 사용하지 않고 코드로 구현하였습니다.
 1. UI구현은 스토리보드를 사용하지 않고 코드로 하였습니다.
 2. 화이트 모드, 다크 모드 2가지 기능이 있습니다.
 
 # 2. 어떤 기능이 추가될 예정인가요?
 1. 일정을 메모하는 기능을 추가할 것입니다.
+
 # 3. 앱 시현 이미지
+
 <table>
   <tr>
     <th width="30%">캘린더 앱 시현</th>
   </tr>
   <tr>
-    <th rowspan="2"><img src="https://user-images.githubusercontent.com/47823405/53235139-75460300-36d4-11e9-9424-7866606c7d5b.gif"></th>
+    <th rowspan="9"><img src="https://user-images.githubusercontent.com/47823405/53235139-75460300-36d4-11e9-9424-7866606c7d5b.gif"></th>
      </tr>
 <table>
   
   
 # 감사합니다!
+
+  
